@@ -11,10 +11,8 @@ or
 https://drive.google.com/file/d/1OzjBKVPNmg6YACmcA7mlnOXCxmZ2l2aU/view?usp=sharing
 
 Fron-end:
-https://github.com/CampanuAlexandruCatalin/planbetterangular
+https://github.com/emiliachelariu/PlanBetter---Frontend
 
-Automated testing
-https://github.com/CampanuAlexandruCatalin/PlanBetterAutomatedTesting
 
 Postman testing
 https://www.postman.com/lunar-astronaut-68832/workspace/planbetter/collection/22271748-39c97521-5053-4fba-96c2-058222cab800?action=share&creator=22373954
